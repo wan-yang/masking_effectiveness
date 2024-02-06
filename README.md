@@ -1,15 +1,15 @@
 # Model code used in Yang & Shaman "Reconciling the efficacy and effectiveness of masking on epidemic outcomes"
 author: Wan Yang\
-date: March 2023
+date: March 2023\
 note: this code is for research use only; may not be entirely optimized nor neatly organized. 
 
 ## Study Summary
 During the COVID-19 pandemic, mask wearing in public settings has been a key control measure. However, the low effectiveness reported for masking has cast doubt on its validity. This study develops an agent-based model to interrogate influencing factors. Testing shows that transmission within-household where masks are rarely used can substantially lower effectiveness. Nonetheless, model results support the effectiveness of masking at both the individual and population levels, albeit at less-than-ideal levels. Overall, study findings indicate it is prudent for individuals to use masks during an epidemic, and for policy makers to recognize the less-than-ideal effectiveness of masking when devising interventions.
 
 ## data
-This folder includes all relevant data needed to run the simulations
-The POLYMOD contact data were downloaded from https://zenodo.org/record/3874557#.ZAiucy3MyF0
-The Google mobility data were downloaded from https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv
+This folder includes all relevant data needed to run the simulations.\
+The POLYMOD contact data were downloaded from https://zenodo.org/record/3874557#.ZAiucy3MyF0\
+The Google mobility data were downloaded from https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv\
 The NYC vaccination data were downloaded from https://raw.githubusercontent.com/nychealth/covid-vaccine-data/main/people/trends-byage.csv
 
 ## scripts
