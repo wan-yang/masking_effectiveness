@@ -8,8 +8,8 @@ During the COVID-19 pandemic, mask wearing in public settings has been a key con
 
 ## data
 This folder includes all relevant data needed to run the simulations.\
-The POLYMOD contact data were downloaded from https://zenodo.org/record/3874557#.ZAiucy3MyF0\
-The Google mobility data were downloaded from https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv\
+The POLYMOD contact data were downloaded from https://zenodo.org/record/3874557#.ZAiucy3MyF0 \
+The Google mobility data were downloaded from https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv \
 The NYC vaccination data were downloaded from https://raw.githubusercontent.com/nychealth/covid-vaccine-data/main/people/trends-byage.csv
 
 ## scripts
