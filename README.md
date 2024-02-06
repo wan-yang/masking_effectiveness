@@ -1,6 +1,5 @@
 # Model code used in Yang & Shaman "Reconciling the efficacy and effectiveness of masking on epidemic outcomes"
 author: Wan Yang
-
 date: March 2023
 note: this code is for research use only; may not be entirely optimized nor neatly organized. 
 
